@@ -1,50 +1,53 @@
-HTML Practice File — Images, Lists, Tables, and Iframe
-📄 Description
+# 🌐 HTML Practice Collection
 
-This HTML document demonstrates the use of some of the most common and important HTML tags.
-It includes examples of how to embed images, create lists, display tabular data, and embed external web pages using an iframe.
+This repository contains simple **HTML example files** created for learning and practice purposes.  
+Each file demonstrates different HTML tags and their usage — such as **forms, images, lists, tables, and iframes**.
 
-🧩 Features
+---
 
-Image Example:
-Displays an image inside a hyperlink that redirects to a YouTube video when clicked.
+## 📂 Project Files
 
-Lists Example:
-Shows both unordered (<ul>) and ordered (<ol>) lists, including nested list structures.
+### 📝 1️⃣ form.html
+A simple HTML **Form Example** demonstrating various input types and form controls.
 
-Table Example:
-Demonstrates the creation of a simple HTML table using <table>, <tr>, <th>, and <td> tags with borders and merged cells (colspan).
+#### ✨ Features
+- 🧍‍♂️ Text input for **username**
+- 🔒 Password input with placeholder
+- 🔢 Disabled number input
+- ☑️ Checkbox and 🔘 Radio buttons
+- 📧 Email input field
+- 📅 Date & ⏰ Time picker
+- 🎨 Color picker
+- 📁 File upload
+- 🏙️ Dropdown (**select**) menu for cities
+- 💬 Multi-line **textarea**
+- 🚀 Submit button
 
-Iframe Example:
-Embeds an external webpage (mysirg.com) inside the current page using the <iframe> tag.
+#### 💡 Learning Points
+- How to use `<form>` with different `input` types  
+- Attributes like `name`, `disabled`, `placeholder`, and `selected`  
+- Structuring user inputs properly for better form design  
 
-🖼️ File Structure
-htmlimage.html
+---
 
-💡 How to Run
+### 🌄 2️⃣ index.html
+An example showing **Images, Lists, Tables, and Iframes** in HTML.
 
-Download or clone the repository:
+#### 🧩 Includes
+- 🖼️ Displaying images using `<img>`  
+- 🧾 Ordered & unordered lists (`<ol>`, `<ul>`, `<li>`)  
+- 📊 Tables created using `<table>`, `<tr>`, `<th>`, `<td>`  
+- 🌍 Embedded content using `<iframe>`  
 
-git clone https://github.com/wasim-1432/Full-Stack-Web-Development.git
+#### 💡 Learning Points
+- How to organize content with lists and tables  
+- How to embed images and external pages  
+- Basic page layout using standard HTML elements  
 
+---
 
-Open the htmlimage.html file in your browser.
+## ⚙️ How to Use
 
-Explore the examples of image, list, table, and iframe.
-
-🧠 Learning Outcome
-
-By studying this HTML file, you will learn:
-
-How to insert and link images.
-
-How to create ordered and unordered lists.
-
-How to structure tabular data.
-
-How to embed external websites using iframes.
-
-📚 Author
-
-Mohd Wasim
-GitHub: wasim-1432
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/wasim-1432/Created-sample-HTML-document-demonstrating-images-lists-tables-and-iframe.git
